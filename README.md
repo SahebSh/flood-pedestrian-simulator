@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 By clonnig/downloading this repo's content you will have access to the flood-pedestrian source code, functions.c, and descriptions of agents, XMLModelFile.xml required to build and run a model on FLAMEGPU framework.
 
 ### Prerequisites
-Before clon/download, consider the following things that you need. 
+Before clone/download, consider the following things that you need. 
 
 #### Required software
 + **FLAMEGPU v1.5** - you can get it from [FLAMEGPU master branch on GitHub](https://github.com/FLAMEGPU/FLAMEGPU) on your local machine - For more information about FLAMEGPU and download the latest Technical Report and User Guide go to http://www.flamegpu.com/.
