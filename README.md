@@ -1,6 +1,6 @@
 # flood-pedestrian-simulator
 
-The flood-pedestrian simulator is an agent-based model that can be used to model evacuation of large crowds in small urban areas. It can simulate the dynamic interactions that may occure between individuals and floodwater at a microscopic level.
+The flood-pedestrian simulator is an agent-based model that can be used to model evacuation of large crowds in small urban areas together with the dynamic interactions that may occure between individuals and floodwater at a microscopic level.
 
 The ***FloodPedestrian_2020*** folder consists of codes that is used to dynamically couple a hydrodynamic model to a pedestrian model to build and run within the [FLAMEGPU](http://www.flamegpu.com/) framework, that is a computational platform for the simulation of multiple agent interactions on CUDA Cores for parallel processing on Graphical Processing Units (GPUs). The pedestrian model is represented by formulation of a standard social force model for human movement, with pedestrian agents representing evacuees that can move continuously in space and time. The hydrodynamic model includes a grid of fixed agents, called flood agent, that represents the computational grid for a flood model based on solution of shallow water equations. 
 
