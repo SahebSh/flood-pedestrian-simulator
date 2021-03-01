@@ -19,10 +19,10 @@ Before clone/download, consider the following things that you need.
 #### Required software
 + **FLAMEGPU v1.5** - you can get it from [FLAMEGPU master branch on GitHub](https://github.com/FLAMEGPU/FLAMEGPU) on your local machine - For more information about FLAMEGPU and download the latest Technical Report and User Guide go to http://www.flamegpu.com/.
 + **Visual Studio 2015 or earlier** - you can download the latest version of the Visual Studia from [Microsoft website](https://visualstudio.microsoft.com/downloads/). 
-+ **CUDA Toolkit 10.1** - You can download it from [Nvidia's developer download archive](https://developer.nvidia.com/cuda-10.1-download-archive-base) - alternatively you may use later versions, but it needs further manual modification to the generated solution (see note 1).
++ **CUDA Toolkit 10.1** - You can download it from [Nvidia's developer download archive](https://developer.nvidia.com/cuda-10.1-download-archive-base) - alternatively you may use later versions, but it needs extra manual modification to the solution file (see note 1).
 
 #### Required hardware
-+ Nvidia Graphics card with minimum 2GB GDDR memory
++ **Nvidia Graphics card** - the simulator should be able to run on any Nvidia Graphics Card with a minimum 2GB memory installed on a normal machine.
 
 ### Installing
 Installation steps goes here. 
