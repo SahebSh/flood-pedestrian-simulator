@@ -1,12 +1,9 @@
 # flood-pedestrian-simulator
-```
-```
-An agent-based model to simulate evacuation of large crowds in small urban areas with microscopic dynamic interactions that occure between individuals and floodwater. 
 
+The simulator is an agent-based model that can be used to model evacuation of large crowds in small urban areas. It can simualte the dynamic interactions that may occure between individuals and floodwater at a microscopic level.
 
-# flood-pedestrian simulator on FLAMEGPU
+The simulator consists of source codes that is used to dynamically couple a hydrodynamic model to a pedestrian model within the [FLAMEGPU](http://www.flamegpu.com/) framework. The pedestrian model is represented by formulation of a standard social force model with pedestrian agents representing evacuees that can move continuously in space and time. The hydrodynamic model includes a grid of fixed agents, called flood agent, that represents the computational grid for a flood model based on solution of shallow water equations. More information about the development stages and evaluation of the simulator can be found in [Shirvani et al. (2020)](https://iwaponline.com/jh/article/22/5/1078/75432/Agent-based-modelling-of-pedestrian-responses), [Shirvani et al. (2021)](https://onlinelibrary.wiley.com/doi/abs/10.1111/jfr3.12695). 
 
-One Paragraph of project description goes here
 
 ## Getting Started
 
@@ -34,7 +31,8 @@ Explain how to run the already created tests with initial conditions
 ### Break down
 
 Explain what these tests test and why
-
+```
+```
 
 ```
 Give examples
