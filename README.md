@@ -9,7 +9,7 @@ The **FloodPedestrian_2020** folder consists of codes that is used to dynamicall
 3- what the user will see in the guidelie here. 
 The flood-pedestrian simulator is an agent-based model that can be used to model evacuation of large crowds in small urban areas together with the dynamic interactions that may occure between individuals and floodwater at a microscopic level.
 
-## Find the simulator full documentation below on Zenodo to getting started
+## Find the simulator full documentation below on Zenodo to get started
 https://zenodo.org/records/4672125
 
 ### To know more about FLAMEGPU reade FLAMEGPU.md file and visit http://www.flamegpu.com
